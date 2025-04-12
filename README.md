@@ -16,7 +16,7 @@ This repository demonstrates a full pipeline of a deep learning classification p
 ![Pandas](https://img.shields.io/badge/Pandas-1.5-orange)  
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.2-green)  
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7-blueviolet)  
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
+![Google-collab](https://img.shields.io/badge/Jupyter-Notebook-orange)
     
 
 * * *
